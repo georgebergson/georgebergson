@@ -6,7 +6,7 @@
 
 ## Bio:
 <div>🔭 Especialista em PHP!!! e também amo Frameworks como Laravel, VueJS, TailwindCSS</div>
-<div>🌱 Atualmente estudando TypeScript, TauriJS, Java com SpringBoot</div>
+<div>🌱 Atualmente estudando Dart, TypeScript, TauriJS, Java com SpringBoot</div>
 <div>😄 Totalmente Feliz com o que faço, amo tecnologia e ESTUDAR sempre!</div>
 
 ## Stacks:
